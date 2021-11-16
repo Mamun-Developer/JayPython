@@ -13,6 +13,7 @@ def print_multiplication_table_using_for_loop(n):
     # Write your code here
     pass
 
+
 def print_multiplication_table_using_while_loop(n):
     """
     Print the multiplication table of number 'n': until 5
@@ -28,3 +29,6 @@ def print_multiplication_table_using_while_loop(n):
     # Write your code here
     pass
 
+
+def addition(a, b):
+    return a + b
